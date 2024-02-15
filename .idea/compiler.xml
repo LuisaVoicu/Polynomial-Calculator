@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PT2023_30226_VOICU_LUISA_ASSIGN_1" />
+        <module name="Polioname" />
+        <module name="PT2023_30226_VOICU_LAURA_ASSIGNMENT_1" />
+        <module name="PT2023_30226_Voicu_LauraLuisa_Assignment_1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
